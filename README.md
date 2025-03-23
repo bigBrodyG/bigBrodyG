@@ -80,16 +80,12 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bigBrodyG&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=bigBrodyG&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=bigBrodyG&theme=dark&hide_border=true&include_all_commits=false&count_private=false) <br>
+![](https://nirzak-streak-stats.vercel.app/?user=bigBrodyG&theme=dark&hide_border=true) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bigBrodyG&theme=dark&hide_border=true&include_all_commits=false&count_private=false&hide=SWIG&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bigBrodyG&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bigBrodyG&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
