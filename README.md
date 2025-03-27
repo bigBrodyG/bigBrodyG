@@ -92,6 +92,12 @@ For me, _technology isn’t just code—it’s a **language of infinite possibil
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
 
+# 🧰 Projects
+| 🏫 School | 🧑‍💻 Personal |
+|-----------|----------|
+|[School_journey](https://github.com/bigBrodyG/School_journey)|[AI dev](https://pastebin.com/raw/eearx7eM)|
+|![](https://github.com/bigBrodyG)| [Cybersec Training](https://github.com/bigBrodyG/cybersectraining)|
+
 # 📊 Stats:
 ![Visitor Count](https://profile-counter.glitch.me/bigBrodyG/count.svg) <br>
 ![](https://github-readme-stats.vercel.app/api?username=bigBrodyG&theme=dark&hide_border=true&include_all_commits=false&count_private=false) <br>
