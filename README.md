@@ -114,7 +114,8 @@ For me, _technology isn’t just code—it’s a **language of infinite possibil
 [![](https://visitcount.itsvg.in/api?id=bigBrodyG&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/....) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/giordi) 
+  [![Donate with PayPal](https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal1.svg)](https://www.paypal.me/GiordanoFornari)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
