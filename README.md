@@ -49,6 +49,13 @@ For me, _technology isn’t just code—it’s a **language of infinite possibil
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 -->
+## 🔐 **Cybersec Tools**  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
+![Ghidra](https://img.shields.io/badge/ghidra-000000?style=for-the-badge&logo=redragon&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CyberChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+
 ## 🎓 **Where I learn**
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
