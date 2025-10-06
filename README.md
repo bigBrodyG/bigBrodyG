@@ -107,7 +107,7 @@ For me, _technology isn’t just code—it’s a **language of infinite possibil
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bigBrodyG&theme=dark&hide_border=true&include_all_commits=false&count_private=false) <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=bigBrodyG&theme=dark&hide_border=true) <br>
-![](https://github.com/bigBrodyG/ocbadge/blob/711076e3154dfea579444719a8738f46a5a06f95/card.svg)
+![](https://github.com/bigBrodyG/ocbadge/blob/main/card.svg)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bigBrodyG&theme=dark&hide_border=true&include_all_commits=false&count_private=false&hide=SWIG&layout=compact)
 
 ## 🏆 GitHub Trophies
