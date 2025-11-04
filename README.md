@@ -101,8 +101,9 @@ For me, _technology isn’t just code—it’s a **language of infinite possibil
 # 🧰 Projects
 | 🏫 School | 🧑‍💻 Personal |
 |-----------|----------|
-|[School_journey](https://github.com/bigBrodyG/School_journey)|[AI dev](https://pastebin.com/raw/eearx7eM)|
-|![](https://github.com/bigBrodyG)| [Cybersec Training](https://github.com/bigBrodyG/cybersectraining)|
+|[JavaProjects](https://github.com/bigBrodyG/JavaProjects)|[TemplateOS](https://github.com/bigBrodyG/TemplateOS)|
+|[C-ISO-OSI](https://github.com/bigBrodyG/C-ISO-OSI)|[Cybersec Training](https://github.com/bigBrodyG/cybersectraining)|
+|[School_journey](https://github.com/bigBrodyG/School_journey)|[PythonAlmostSelfLearned](https://github.com/bigBrodyG/PythonAlmostSelfLearned)|
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bigBrodyG&theme=dark&hide_border=true&include_all_commits=false&count_private=false) <br>
