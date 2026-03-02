@@ -2,18 +2,22 @@
 
 👋 Hi, I'm Giordano Fornari!  <br>  
 Science and technology fuel my **relentless curiosity**. <br>  
-My journey began in the classroom, where **physics** and **chemistry** became my first fields of exploration—from the **Chemistry Olympics** to **Bocconi Mathematical Competitions**, always driven by a **burning passion for discovery**. <br>  
+My journey began in the secondary school, where **physics** and **chemistry** became my first fields of exploration—from the **Chemistry Olympics** to **Bocconi Mathematical Competitions**, always driven by a **burning passion for discovery**. <br>  
 
-But I don’t just study—I **create**. **Curiosity** led me to **embedded systems**, where I experimented with **Arduino**, **ESP32**, and **microcontrollers**, turning ideas into **reality** through hands-on innovation. <br>  
+But I don’t just study—I **create**. **Curiosity** led me to **embedded systems**, where I experimented with **Arduino**, **ESP32**, **RaspberryPi** and **microcontrollers**, turning ideas into **reality** through hands-on practise. <br>  
 
-Then I discovered **cybersecurity**, and everything changed. From a school course to a national training camp, I ranked **69th in Italy** and earned my place at the **Olicyber national finals**. Four intense days in **Turin**, immersed in **complex challenges**, only fueled my **hunger for growth**. <br>  
+Then I discovered **cybersecurity**, and everything changed. I worked my way through the regional selection, then **got called up** to the **national training camp** in Turin — four days fully immersed in complex problems alongside the strongest competitors in the country. It was challenging, eye-opening, and honestly addictive. I left the Olicyber National Finals with a **Silver Medal.** <br>  
 
-Now, I’m sharpening my skills, preparing for **CyberChallenge IT**, and pushing my limits in **ethical hacking** and **security research**. _Every challenge is an opportunity, every setback a lesson._  
+The following year, I **qualified again** and just got back from the national training camp — now waiting to see if I've made it to the finals.
 
-I’m here to **build, break, and innovate**—fearlessly. **CyberChallenge 2026** is in my sights, but my ambition goes further: transforming every challenge into an **opportunity for progress**.  
-**Humble** but **driven**, always in **motion**.  
-For me, _technology isn’t just code—it’s a **language of infinite possibilities**._  
 
+I'm here to **build**, **break**, and **innovate** — no hesitation. CyberChallenge 2026 is the next target, but the ambition doesn't stop there. 
+
+There's **_always something new to learn_**, a concept to dig into, a problem worth obsessing over.
+
+
+Humble, driven, always curious.
+<!--
 ## 💙 All stuff I love
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
@@ -28,20 +32,16 @@ For me, _technology isn’t just code—it’s a **language of infinite possibil
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@fornari.giordano) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ExcellentDrummer5481) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gfornari.casa@gmail.com) 
-
+-->
 # 💻 Tech Stack:
 
 ## 🔀 **Programming Languages**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Batch%20Script-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 <br>
 <!--
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
@@ -54,7 +54,6 @@ For me, _technology isn’t just code—it’s a **language of infinite possibil
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/ghidra-000000?style=for-the-badge&logo=redragon&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CyberChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 
 ## 🎓 **Where I learn**
 
