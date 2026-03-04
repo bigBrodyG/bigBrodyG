@@ -33,6 +33,7 @@ Humble, driven, always curious.
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ExcellentDrummer5481) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gfornari.casa@gmail.com) 
 -->
+<!--
 # 💻 Tech Stack:
 
 ## 🔀 **Programming Languages**
@@ -43,12 +44,10 @@ Humble, driven, always curious.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 <br>
-<!--
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
--->
 ## 🔐 **Cybersec Tools**  
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -96,7 +95,7 @@ Humble, driven, always curious.
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
-
+-->
 # 🧰 Projects
 | 🏫 School | 🧑‍💻 Personal |
 |-----------|----------|
@@ -104,25 +103,27 @@ Humble, driven, always curious.
 |[C-ISO-OSI](https://github.com/bigBrodyG/C-ISO-OSI)|[Cybersec Training](https://github.com/bigBrodyG/cybersectraining)|
 |[School_journey](https://github.com/bigBrodyG/School_journey)|[PythonAlmostSelfLearned](https://github.com/bigBrodyG/PythonAlmostSelfLearned)|
 
-# 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bigBrodyG&theme=dark&hide_border=true&include_all_commits=false&count_private=false) <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=bigBrodyG&theme=dark&hide_border=true) <br>
 ![](https://github.com/bigBrodyG/ocbadge/blob/main/card.svg) <br>
 ![](https://github.com/bigBrodyG/bigBrodyG/blob/output/github-contribution-grid-snake-dark.svg)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bigBrodyG&theme=dark&hide_border=true&include_all_commits=false&count_private=false&hide=SWIG&layout=compact)
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bigBrodyG&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+
+
+### Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bigBrodyG&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/giordi) 
-  [![Donate with PayPal](https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal1.svg)](https://www.paypal.me/GiordanoFornari)
+## 💰 You can help me by Donating
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/giordi) 
+
+[![Donate with PayPal](https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal1.svg)](https://www.paypal.me/GiordanoFornari)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
