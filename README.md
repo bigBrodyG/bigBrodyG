@@ -17,6 +17,7 @@ There's **_always something new to learn_**, a concept to dig into, a problem wo
 
 
 Humble, driven, always curious.
+![](https://github-profile-trophy.vercel.app/?username=bigBrodyG&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 <!--
 ## 💙 All stuff I love
 
@@ -109,7 +110,6 @@ Humble, driven, always curious.
 ![](https://github.com/bigBrodyG/bigBrodyG/blob/output/github-contribution-grid-snake-dark.svg)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bigBrodyG&theme=dark&hide_border=true&include_all_commits=false&count_private=false&hide=SWIG&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=bigBrodyG&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 
 
