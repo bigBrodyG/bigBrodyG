@@ -105,7 +105,7 @@ Humble, driven, always curious.
 
 ![](https://github-readme-stats.vercel.app/api?username=bigBrodyG&theme=dark&hide_border=true&include_all_commits=false&count_private=false) <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=bigBrodyG&theme=dark&hide_border=true) <br>
-![](https://github.com/bigBrodyG/ocbadge/blob/main/card.svg) <br>
+![](https://github.com/bigBrodyG/ocbadge/blob/main/card.svg)
 ![](https://github.com/bigBrodyG/bigBrodyG/blob/output/github-contribution-grid-snake-dark.svg)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bigBrodyG&theme=dark&hide_border=true&include_all_commits=false&count_private=false&hide=SWIG&layout=compact)
 
