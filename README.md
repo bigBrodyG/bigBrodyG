@@ -10,7 +10,6 @@ Then I discovered **cybersecurity**, and everything changed. I worked my way thr
 
 The following year, I **qualified again** and just got back from the national training camp — now waiting to see if I've made it to the finals.
 
-
 I'm here to **build**, **break**, and **innovate** — no hesitation. CyberChallenge 2026 is the next target, but the ambition doesn't stop there. 
 
 There's **_always something new to learn_**, a concept to dig into, a problem worth obsessing over.
